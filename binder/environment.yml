@@ -1,0 +1,17 @@
+name: group_meeting
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - xarray
+  - netcdf4
+  - geopandas
+  - numba
+  - ipykernel
+  - ipython
+  - numpy
+  - cartopy
+  - geopandas
+  - rioxarray
+  - cmake
+  - pip
